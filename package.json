@@ -1,0 +1,23 @@
+{
+  "name": "nandi-khumalo-199-semitone-difference-basic-algorithm-javascript",
+  "version": "1.0.0",
+  "description": "semitone difference - basic algorithm (199) For raw project instructions see: http://syllabus.africacode.net/projects/semitone-challenge/basic-algorithm/",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^3.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Nandi-Khumalo-199-semitone-difference-basic-algorithm-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Nandi-Khumalo-199-semitone-difference-basic-algorithm-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Nandi-Khumalo-199-semitone-difference-basic-algorithm-javascript#readme"
+}
